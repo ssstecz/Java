@@ -1,7 +1,7 @@
 /* *****************************************************************************
  *  Name:              Salvio Stecz
  *  Coursera User ID:  123456
- *  Last modified:     December 01, 2022
+ *  Last modified:     December 12, 2022
  **************************************************************************** */
 public class HelloGoodbye {
     public static void main(String[] args) {
